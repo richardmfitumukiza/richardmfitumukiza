@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardmfitumukiza
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 You can reach me at mfitumukiza@protonmail.com
