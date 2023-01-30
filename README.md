@@ -10,16 +10,16 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Welcome
 
-I am a data scientist with 11 years of experience in data analysis, software engineering and business administration.  
+I am a data scientist with professional experience in data analysis, software engineering and business administration.  
 I specialize in Natural Language Processing (NLP), the field in which I published the ground breaking research paper “Intelligent Spam Filtration based on SMS Linguistics”.
 
 I solve complex business problems like demand forecast, customer segmentation and investment strategies  using my extensive knowledge in meticulous data cleaning, advanced statistical analysis and robust machine learning engineering.  
 My latest work consisted of analyzing and visualizing time series sales data in order to advise on customer segmentation and marketing campaign effectiveness. More of my projects can be found in my portfolio.
 
-My domains of interest includes Healthcare data and Medical literature, marketing strategies, business operational efficiency, financial analysis.
+My domains of interest includes electronic health records database schemes and Medical literature, marketing strategies, business operational efficiency, financial analysis.
 
 ### Skills and Certifications  
-    • Machine Learning : Numpy | Pandas | MatPlotLib | Bokeh | SciKit Learn | TensorFlow   
+    • Machine Learning : Numpy | Pandas | MatPlotLib | Bokeh | SciKit Learn | PyTorch   
     • Analytics : Google Data Studio | Tableau | Time series | Regression | Classification | Clustering  
     • Software Development : SQL | Python | Flask | NGINX | HTML | CSS | JavaScript  
     • Systems : Google Cloud Platform | Docker | Git | Jupyter Notebook  
